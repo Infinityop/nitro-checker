@@ -3,7 +3,12 @@ Discord Nitro Checker is a simple program written in Python and go that allows y
 To use the program, simply create a file called 'tokens.txt' and add your Discord tokens, one per line. Then run the program and specify the number of threads you want to use. The program will check each token and output the results to the appropriate files.
 
 Author: [pray#6969]
+
+
 Discord: [pray#696]
+
+
 Created By - [pray#6969]
+
 Server - [discord.gg/maskalts]
 For Further Support Contact Me On Discord
