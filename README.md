@@ -4,11 +4,10 @@ To use the program, simply create a file called 'tokens.txt' and add your Discor
 
 Author: [pray#6969]
 
-
 Discord: [pray#696]
-
 
 Created By - [pray#6969]
 
 Server - [discord.gg/maskalts]
+
 For Further Support Contact Me On Discord
